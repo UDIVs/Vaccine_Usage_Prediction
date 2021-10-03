@@ -1,4 +1,4 @@
-# Vaccine_Usage_Prediction
+# Machine Learning Techniques for Vaccination Prediction
 
 ## Background:
 We all have been going through this pandemic and I am sure nobody is enjoying this. The sooner this ends the better. The one think which helps in mitigating this outbreak is “herd immunity”. Now herd immunity can be achieved by vaccinating a large portion of population, but the problem arises when people are not willing to get vaccinated. 
