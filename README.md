@@ -144,6 +144,7 @@ Here we have a correlation heatmap of all the possible variables which shows the
 ![image](https://user-images.githubusercontent.com/89060175/135742457-cb9f350a-009f-4733-812b-e329194b9ee1.png)
 
 The graph above depicts the percentage of people who have received the vaccine, have had a seasonal vaccine advised by a doctor, are aware of H1N1, have had an H1N1 vaccine recommended by a doctor, and have avoided contact. To begin with, we can state that fewer people have been vaccinated. There must be a cause for this occurrence. As can be seen, more people have limited (1) or good (2) knowledge about H1N1, which is wonderful, but why aren't more people vaccinated?
+
 Doctors are also not suggesting seasonal flu and H1N1 vaccines to many people; the reason for this may be seen in the most recent distribution, since most people are avoiding contact. This could aid in the prevention of disease spread. 
 
 ![image](https://user-images.githubusercontent.com/89060175/135742469-53e050aa-70e3-4815-850b-6c8e7b46f0a7.png)
